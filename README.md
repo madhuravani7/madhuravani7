@@ -1,6 +1,7 @@
 ## Hi there, I am Madhu! 👋
 
 👋 Hello! I'm a passionate coding and analytics enthusiast.
+
 💻 Love building projects that solve real-world problems and provide valuable insights through data analytics.
 🎨 Keen about details and love designing.
 ✍️ Draw digitally and on paper in my free time.
