@@ -1,5 +1,5 @@
 # 💫 Hi there, I am Madhu!
-👋 Hello! I'm a passionate coding and analytics enthusiast.<br>💻 Love building projects that solve real-world problems and provide valuable insights through data analytics.<br>🎨 Keen about details and love designing.<br>✍️ Draws digitally and on paper in my free time.<br>🎓 Bachelor's degree in Information and Technology with distinction from Federation University (Grade: 6.56/7).<br>💻 I Leetcode sometimes ✌️
+👋 Hello! I'm a passionate coding and analytics enthusiast.<br>💻 Love building projects that solve real-world problems and provide valuable insights through data analytics.<br>🎨 I design and draw<br>✍️ Draws digitally and on paper in my free time.<br>🎓 Bachelor's degree in Information and Technology with distinction from Federation University (Grade: 6.56/7).<br>💻 I Leetcode sometimes ✌️
 
 
 # 💻 Tech Stack
