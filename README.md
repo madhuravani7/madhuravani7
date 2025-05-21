@@ -1,4 +1,4 @@
-# 💫 Hi there, I am Madhu!
+# Hi there, I am Madhu!
 👋 I'm a data analyst who loves digging into data to find insights that actually matter. I work with SQL, Power BI, Tableau, and Excel to build dashboards and tell data stories that help make smart decisions.
 
 Outside of data, I'm always learning — whether it's IT support tools, Azure, or just experimenting with automation and coding. I enjoy figuring out how things work and finding better ways to solve problems.
