@@ -1,5 +1,7 @@
 # 💫 Hi there, I am Madhu!
-👋 Hello! I'm a passionate coding and analytics enthusiast.<br>💻 Love building projects that solve real-world problems and provide valuable insights through data analytics.<br>🎨 I build frontend websites<br>✍️ Draws digitally in my free time<br>🎓 Bachelor's degree in Information and Technology with distinction from Federation University (Grade: 6.56/7).<br>💻 I Leetcode sometimes ✌️<br> 👨‍💻 Certified in Web Development, Excel Advanced Pro Tips, Data Analytics 
+👋 I'm a data analyst who loves digging into data to find insights that actually matter. I work with SQL, Power BI, Tableau, and Excel to build dashboards and tell data stories that help make smart decisions.
+
+Outside of data, I'm always learning — whether it's IT support tools, Azure, or just experimenting with automation and coding. I enjoy figuring out how things work and finding better ways to solve problems.
 
 
 # 💻 Tech Stack
